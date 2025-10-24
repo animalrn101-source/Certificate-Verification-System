@@ -24,4 +24,3 @@ It ensures that educational institutions, organizations, and employers can **aut
 **Storage:** IPFS (for certificate files & metadata)
 
 ---
-ok 
