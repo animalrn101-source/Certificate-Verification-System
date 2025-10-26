@@ -11,7 +11,7 @@ It ensures that educational institutions, organizations, and employers can **aut
 - 🪪 **Tamper-proof storage:** Once issued, a certificate cannot be altered or deleted.  
 - 👩‍🎓 **Easy verification:** Verify any certificate using its unique blockchain transaction hash or certificate ID.  
 - 🏛️ **Institution dashboard:** Authorized organizations can issue certificates securely.  
-- 🌐 **Decentralized access:** All verification happens on-chain — no central database needccced.  
+- 🌐 **Decentralized access:** All verification happens on-chain — no central database needed.  
 - 📄 **User-friendly interface:** Simple web interface for students, employers, and universities.
 
 ---
