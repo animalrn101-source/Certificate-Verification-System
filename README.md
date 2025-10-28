@@ -4,7 +4,7 @@
 The **Certificate Verification System** is a decentralized application (DApp) built on blockchain technology to issue, verify, and manage digital certificates securely.  
 It ensures that educational institutions, organizations, and employers can **authenticate certificates** without intermediaries — making forgery nearly impossible.
 
----
+---m
 
 ## 🚀 Features
 - 🔐 **Blockchain-backed authenticity:** Certificates are recorded on the blockchain, ensuring immutability and transparency.  
