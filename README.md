@@ -22,7 +22,7 @@ It ensures that educational institutions, organizations, and employers can **aut
 **Backend (optional):** Node.js / Express.js  
 **Blockchain Interaction:** Web3.js / Ethers.js  
 **Storage:** IPFS (for certificate files & metadata)
-/ contract details: address:0x31727618DE1BD239961c36fe71a98A0C411E68F2
+**contract details:** address:0x31727618DE1BD239961c36fe71a98A0C411E68F2
 
 ---<img width="1708" height="854" alt="509206038-5f756b07-4e52-4408-874c-95d323ea3f05" src="https://github.com/user-attachments/assets/f0a36c60-cf4f-4050-9b21-0c7439ff4683" />
 
