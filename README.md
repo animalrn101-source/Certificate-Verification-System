@@ -20,7 +20,7 @@ It ensures that educational institutions, organizations, and employers can **aut
 **Frontend:** React.js / Next.js  
 **Smart Contract:** Solidity (Deployed on Ethereum / Polygon testnet)  
 **Backend (optional):** Node.js / Express.js  
-**Blockchain Interaction:** Web3.js / Ethers.js  
+**Blockchain Interaction:** Web3.js / Ethers.js 4 
 **Storage:** IPFS (for certificate files & metadata)
 **contract details:** address:0x31727618DE1BD239961c36fe71a98A0C411E68F2
 
